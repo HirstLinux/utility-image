@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:eoan
 RUN apt-get update
 RUN apt-get install sudo
 
